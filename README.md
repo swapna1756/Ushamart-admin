@@ -26,10 +26,6 @@ npm install
 npm run dev                 # http://localhost:3000
 ```
 
-## Login
-- Email: naidumay123@gmail.com
-- Password: Rajubhai@1
-
 ## Tech Stack
 - Node.js + Express
 - Supabase (Postgres) / JSON fallback
